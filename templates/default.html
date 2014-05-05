@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Hi-Plex Sequencing - $title$</title>
+	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css">
+	<link rel="stylesheet" href="/css/side-menu.css">
+	<link rel="stylesheet" href="/css/custom.css">
+    </head>
+
+    <body>
+       <div id="layout">
+          <div id="menu">
+             <div class="pure-menu pure-menu-open">
+                <ul>
+			<li><div class="gridbox"><a href="./index.html"><img src="images/hiplex_logo.png" alt="Hi-Plex logo"></a></div></li>
+		   <li $if(home)$ class="pure-menu-selected" $endif$><a href="./index.html">Home</a></li>
+                   <li $if(contact)$ class="pure-menu-selected" $endif$><a href="./contact.html">Contact</a></li>
+                   <li $if(docs)$ class="pure-menu-selected" $endif$><a href="./docs.html">Documentation</a></li>
+                   <li $if(papers)$ class="pure-menu-selected" $endif$><a href="./papers.html">Papers</a></li>
+                   <li $if(software)$ class="pure-menu-selected" $endif$><a href="./software.html">Software</a></li>
+                </ul>
+             </div>
+          </div>
+
+          <div id="main">
+             <div class="header">
+                <h1>Hi-Plex Sequencing</h1>
+		$if(home)$ <h2>Simple, low-cost, modular targeted DNA sequencing technology </h2>
+		$else$ <h2>$title$</h2> $endif$
+             </div>
+
+             <div class="content">
+                $body$
+             </div>
+        </div>
+    </body>
+</html>
