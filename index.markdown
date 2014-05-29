@@ -3,39 +3,44 @@ title: Home
 home: True
 ---
 
+<div class="l-box">
+Hi-Plex is a streamlined highly-multiplexed PCR-based target-enrichment system for massively parallel sequencing suitable 
+for an extensive range of clinical and research applications. Hi-Plex is complemented by software for primer design and variant calling.
+</div>
+
 <div class="pure-g-r home-grid">
 <div class="pure-u-1-2">
 <div class="l-box">
-### Simple
+### Simple and High-throughput
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-</div>
-</div>
-
-<div class="pure-u-1-2">
-<div class="l-box">
-### Low cost
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Library-building consists of a single-step, highly-multiplexed PCR, in a simple half-day protocol.
 
 </div>
 </div>
 
 <div class="pure-u-1-2">
 <div class="l-box">
-### Modular
+### Modular and Flexible 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Hi-Plex supports multiple sequencing platforms and allows considerable flexibility in target region design.
 
 </div>
 </div>
 
 <div class="pure-u-1-2">
 <div class="l-box">
-###  Something else
+### Accurate
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Hi-Plex's design allows stringent filtering of sequencing chemistry-induced errors.
+
+</div>
+</div>
+
+<div class="pure-u-1-2">
+<div class="l-box">
+### Low-cost
+
+Hi-Plex uses relatively inexpensive, readily available reagents and small amounts of starting material.
 
 </div>
 </div>
