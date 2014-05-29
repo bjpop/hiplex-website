@@ -1,0 +1,23 @@
+Name:                hiplex-website
+Version:             1.0.0
+Synopsis:            Static website generator for Hi-Plex
+Homepage:            https://github.com/bjpop/hiplex-website
+License:             BSD3
+Author:              Bernie Pope
+Maintainer:          Bernie Pope <florbitous@gmail.com>
+Stability:           Experimental
+category:            Language 
+Build-type:          Simple
+Cabal-version:       >=1.8
+Description:         
+  Static website generator for Hi-Plex
+
+source-repository head
+  type: git
+  location: git://github.com/bjpop/hiplex-website.git
+
+Executable website {
+  ghc-options: -Wall -fno-warn-name-shadowing -fno-warn-orphans
+  main-is: Website.hs
+  build-depends: base, hakyll
+}
