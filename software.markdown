@@ -29,3 +29,16 @@ This program is described in the paper [ROVER variant caller: read-pair overlap 
 
 ## Hi-Plex Primer
 
+A tool for generating primers for the Hi-Plex targeted, multiplexed DNA sequencing strategy. 
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/hiplex-primer).
+
+    You can download the Hi-Plex Primer source repository using git with this command:
+
+    `git clone https://github.com/bjpop/hiplex-primer` 
+
+#### Description 
+
+Hi-Plex Primer generates primer pairs for a given set of target regions. See the [user guide](http://bjpop.github.io/hiplex-primer/) for information about using the tool.
