@@ -8,7 +8,7 @@ Hi-Plex is a streamlined highly-multiplexed PCR-based target-enrichment system f
 for an extensive range of clinical and research applications. Hi-Plex is complemented by software for primer design and variant calling.
 </div>
 
-<div class="pure-g-r home-grid">
+<div class="pure-g-r home-grid grey_background">
 <div class="pure-u-1-2">
 <div class="l-box">
 ### Simple and High-throughput
@@ -43,4 +43,12 @@ Hi-Plex's design allows stringent filtering of sequencing chemistry-induced erro
 Hi-Plex uses relatively inexpensive, readily available reagents and small amounts of starting material.
 
 </div>
+</div>
+</div>
+
+<div class="l-box">
+Hi-Plex has been supported by:
+
+   * [NHMRC](https://www.nhmrc.gov.au/) project grant APP1025879 "Massively parallel sequencing and PCR optimised for DNA-based diagnostics and discovery".
+   * [Victorian Life Sciences Computation Initiative (VLSCI)](www.vlsci.org.au) grant number VR0182 on its Peak Computing Facility at the University of Melbourne, an initiative of the Victorian Government, Australia.
 </div>

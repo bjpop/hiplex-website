@@ -1,4 +1,4 @@
-.gridbox{
+.gridbox {
     padding: 1em;
 }
 
@@ -8,4 +8,13 @@
 
 .l-box {
     padding: 1em;
+}
+
+.centered {
+   text-align: center;
+}
+
+.grey_background {
+   border: 1px solid #eee;
+   background: rgb(250, 250, 200);
 }
