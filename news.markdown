@@ -5,7 +5,11 @@ news: True
 
 ### 2014
 
-* (October 2014) Paper accepted by Analytical Biochemistry "Hi-Plex targeted sequencing is effective using DNA derived from archival dried blood spots." 
+* (December 2014) Paper accepted by Breast Cancer Research and Treatment "Mutation screening of PALB2 in clinically ascertained families from the Breast Cancer Family Registry".
+
+* (November 2014) Paper accepted by BioTechniques "Use of abridged adapter primers increases the target scope of Hi-Plex".
+
+* (October 2014) Paper accepted by Analytical Biochemistry "Hi-Plex targeted sequencing is effective using DNA derived from archival dried blood spots".
 
 * (October 2014) Poster presentation at the American Society of Human Genetics (ASHG), San Diego, USA. Poster title "Hi-Plex, a streamlined and cost-effective approach to targeted massively parallel sequencing".
 
