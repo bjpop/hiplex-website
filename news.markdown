@@ -3,6 +3,18 @@ title: News
 news: True
 ---
 
+### 2015
+
+* (July 2015) Paper submitted for UNDR ROVER variant calling tool.
+
+* (July 2015) Roger Li presents his work on UNDR ROVER to the 2015 UROP Conference Day.
+
+* (June 2015) Edmund Lau undertakes Undergraduate Research Opportunities Program (UROP) studentship with the Hi-Plex team. During his studentship Edmund will work an improved primer design software tool.
+
+* (March 2015) Hi-Plex cited in Cell Reports [Leukemia-Associated Somatic Mutations Drive Distinct Patterns of Age-Related Clonal Hemopoiesis](http://www.sciencedirect.com/science/article/pii/S2211124715001138), McKerrell *et al*.
+
+* (Jan 2015) Collaboration initiated with [CARIF (Cancer Research Initiatives Foundation)](http://carif.com.my/) Malaysia to develop a Hi-Plex based screening panel for *BRCA1*, *BRCA2*, *PALB2* and *TP53*.
+
 ### 2014
 
 * (December 2014) Paper accepted by Breast Cancer Research and Treatment "Mutation screening of PALB2 in clinically ascertained families from the Breast Cancer Family Registry".

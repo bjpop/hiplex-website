@@ -3,6 +3,28 @@ title: Software
 software: True
 ---
 
+## UNDR ROVER 
+
+Unmapped primer directed read overlap variant caller.
+
+Web: [http://bjpop.github.io/undr_rover/](http://bjpop.github.io/undr_rover/)
+
+#### Downloads
+
+* [Source repository on github](https://github.com/bjpop/undr_rover)
+
+    You can download the UNDR ROVER source repository using git with this command:
+
+    `git clone https://github.com/bjpop/undr_rover` 
+
+#### Description 
+
+A new variant caller for the Hi-Plex system with the same highly accurate results 
+as ROVER but with improved runtime performance. 
+Variants are called directly on input FASTQ files instead of aligned BAM files. The avoidance of the 
+computationally costly alignment step greatly reduces the time to produce results.
+
+****
 
 ## Hi-Plex Primer
 
