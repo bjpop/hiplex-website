@@ -5,11 +5,15 @@ news: True
 
 ### 2015
 
+* (September 2015) Bernie Pope presents Hi-Plex at the [University of Otago](http://www.otago.ac.nz/), New Zealand. 
+
 * (July 2015) Paper submitted for UNDR ROVER variant calling tool.
 
 * (July 2015) Roger Li presents his work on UNDR ROVER to the 2015 UROP Conference Day.
 
 * (June 2015) Edmund Lau undertakes Undergraduate Research Opportunities Program (UROP) studentship with the Hi-Plex team. During his studentship Edmund will work an improved primer design software tool.
+
+* (April 2015) Paper "Abridged adapter primers increase the target scope of Hi-Plex" listed in [top ten BioTechnqiues peer-reviewed papers of 2015](http://www.biotechniques.com/news/Top-Ten-BioTechniques-Peer-reviewed-Papers-of-2015/biotechniques-359751.html).
 
 * (March 2015) Hi-Plex cited in Cell Reports [Leukemia-Associated Somatic Mutations Drive Distinct Patterns of Age-Related Clonal Hemopoiesis](http://www.sciencedirect.com/science/article/pii/S2211124715001138), McKerrell *et al*.
 

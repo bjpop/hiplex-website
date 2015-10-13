@@ -3,6 +3,20 @@ title: Papers
 papers: True
 ---
 
+### Hi-Plex targeted sequencing is effective using DNA derived from archival dried blood spots 
+
+Authors: Nguyen-Dumont T, Mahmoodi M, Hammet F, Tran T, Tsimiklis H, Kathleen Cuningham Foundation Consortium for Research into Familial Breast Cancer (kConFab), Giles GG, Hopper JL, Australian Breast Cancer Family Registry, Southey MC, Park DJ  
+
+Journal: [Analytical Biochemistry, 2015](http://www.sciencedirect.com/science/article/pii/S0003269714004928)
+
+Topics: Hi-Plex, Massively parallel sequencing, Targeted sequencing, Dried blood spot, Guthrie Card, Archival DNA 
+
+#### Abstract
+
+Many genetic epidemiology resources have collected dried blood spots (predominantly as Guthrie Cards) as an economical and efficient means of archiving sources of DNA, conferring great value to genetic screening methods that are compatible with this medium. We applied Hi-Plex to screen the breast cancer predisposition gene PALB2 in 93 Guthrie Card-derived DNA specimens previously characterized for PALB2 genetic variants via DNA derived from lymphoblastoid cell lines, whole blood, and buffy coat. Of the 93 archival Guthrie Card-derived DNAs, 92 (99%) were processed successfully and sequenced using approximately half of a MiSeq run. From these 92 DNAs, all 59 known variants were detected and no false-positive variant calls were yielded. Fully 98.13% of amplicons (5417/5520) were represented within 15-fold of the median coverage (2786 reads), and 99.98% of amplicons (5519/5520) were represented at a depth of 10 read-pairs or greater. With Hi-Plex, we show for the first time that a High-Plex amplicon-based massively parallel sequencing (MPS) system can be applied effectively to DNA prepared from dried blood spot archival specimens and, as such, can dramatically increase the scopes of both method and resource.
+
+****
+
 ### Mutation screening of PALB2 in clinically ascertained families from the Breast Cancer Family Registry
 
 Authors: Tú Nguyen-Dumont, Fleur Hammet, Maryam Mahmoodi, Helen Tsimiklis, Zhi L. Teo, Roger Li, Bernard J. Pope, Mary Beth Terry, Saundra S. Buys, Mary Daly, John L. Hopper, Ingrid Winship, David E. Goldgar, Daniel J. Park, Melissa C. Southey
@@ -24,6 +38,9 @@ Authors: Tú Nguyen-Dumont, Fleur Hammet, Maryam Mahmoodi, Bernard J. Pope, Grah
 Journal: [BioTechniques, 2015](http://www.biotechniques.com/BiotechniquesJournal/2015/January/Abridged-adapter-primers-increase-the-target-scope-of-Hi-Plex/biotechniques-356249.html)
 
 Topics: Multiplex PCR, DNA Sequencing
+
+Listed in the [top ten BioTechnqiues peer-reviewed papers of 2015](http://www.biotechniques.com/news/Top-Ten-BioTechniques-Peer-reviewed-Papers-of-2015/biotechniques-359751.html).
+
 
 #### Abstract
 
