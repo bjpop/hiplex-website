@@ -6,6 +6,8 @@ home: True
 <div class="l-box">
 Hi-Plex is a streamlined highly-multiplexed PCR-based target-enrichment system for massively parallel sequencing suitable 
 for an extensive range of clinical and research applications. Hi-Plex is complemented by software for primer design and variant calling.
+
+**NOTE:** improvements have been made to the Hi-Plex chemistry and primer design software. These developments have not yet appeared in the literature. [Contact](contact.html) the Hi-Plex team for information and collaboration enquiries.
 </div>
 
 <div class="pure-g-r home-grid grey_background">
