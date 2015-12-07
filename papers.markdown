@@ -3,20 +3,6 @@ title: Papers
 papers: True
 ---
 
-### Evaluation of germline BRCA1 and BRCA2 mutations in a multi-ethnic Asian cohort of ovarian cancer patients  
-
-Authors: Hasmad HN, Lai KN, Wen WX, Park DJ, Nguyen-Dumont T, Kang PC, Thirthagiri E, Ma'som M, Lim BK, Southey M, Woo YL, Teo SH 
-
-Journal: [Gynecologic Oncology, 2015](http://www.gynecologiconcology-online.net/article/S0090-8258(15)30173-6/abstract)
-
-Topics: Ovarian Cancer, BRCA1, BRCA2, Mutation Screening  
-
-#### Abstract
-
-Despite the discovery of breast and ovarian cancer predisposition genes BRCA1 and BRCA2 more than two decades ago, almost all the available data relate to women of European ancestry, with only a handful of studies in Asian populations. In this study, we determined the frequency of germline alterations in BRCA1 and BRCA2 in ovarian cancer patients from a multi-ethnic cross-sectional cohort of Asian ovarian cancer patients from Malaysia.
-
-****
-
 ### Hi-Plex targeted sequencing is effective using DNA derived from archival dried blood spots 
 
 Authors: Nguyen-Dumont T, Mahmoodi M, Hammet F, Tran T, Tsimiklis H, Kathleen Cuningham Foundation Consortium for Research into Familial Breast Cancer (kConFab), Giles GG, Hopper JL, Australian Breast Cancer Family Registry, Southey MC, Park DJ  
