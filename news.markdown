@@ -5,6 +5,8 @@ news: True
 
 ### 2015
 
+* (November 2015) Paper accepted by Gynecologic Oncology "Evaluation of germline BRCA1 and BRCA2 mutations in a multi-ethnic Asian cohort of ovarian cancer patients".  
+
 * (October 2015) Improvements made to chemistry and primer design software. [Contact](contact.html) us for more information.
 
 * (September 2015) Bernie Pope presents Hi-Plex at the [University of Otago](http://www.otago.ac.nz/), New Zealand. 
