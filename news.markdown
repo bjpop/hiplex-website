@@ -3,6 +3,10 @@ title: News
 news: True
 ---
 
+### 2016
+
+* (April 2016) Paper published by BMC Bioinformatics [UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing](http://www.biomedcentral.com/1471-2105/17/165) 
+
 ### 2015
 
 * (November 2015) Paper accepted by Gynecologic Oncology "Evaluation of germline BRCA1 and BRCA2 mutations in a multi-ethnic Asian cohort of ovarian cancer patients".  

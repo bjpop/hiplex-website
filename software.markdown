@@ -5,42 +5,33 @@ software: True
 
 ## UNDR ROVER 
 
-Unmapped primer directed read overlap variant caller.
-
-Web: [http://bjpop.github.io/undr_rover/](http://bjpop.github.io/undr_rover/)
+A fast and accurate variant caller for targeted DNA sequencing.
 
 #### Downloads
 
-* [Source repository on github](https://github.com/bjpop/undr_rover)
+* [Source repository on github](https://github.com/bjpop/undr_rover).
 
     You can download the UNDR ROVER source repository using git with this command:
 
-    `git clone https://github.com/bjpop/undr_rover` 
+    `git clone https://github.com/bjpop/undr_rover`
 
 #### Description 
 
-A new variant caller for the Hi-Plex system with the same highly accurate results 
-as ROVER but with improved runtime performance. 
-Variants are called directly on input FASTQ files instead of aligned BAM files. The avoidance of the 
-computationally costly alignment step greatly reduces the time to produce results.
+UNDR ROVER is an improved version of our ROVER variant calling tool for
+targeted DNA sequencing. It enables users to quickly and accurately identify
+genetic variants from PCR-targeted, overlapping paired-end MPS datasets. It
+calls the same variants as the ROVER tool but at a significantly reduced
+runtime. It achieves its higher performance by avoiding read alignment before
+variant calling, and can be applied directly to input FASTQ files.
+
+This program is described in the paper [UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing](http://www.biomedcentral.com/1471-2105/17/165), published in BMC Bioinformatics.
+
 
 ****
 
 ## Hi-Plex Primer
 
-A tool for generating primers for the Hi-Plex targeted, multiplexed DNA sequencing strategy. 
-
-#### Downloads
-
-* [Source repository on github](https://github.com/bjpop/hiplex-primer).
-
-    You can download the Hi-Plex Primer source repository using git with this command:
-
-    `git clone https://github.com/bjpop/hiplex-primer` 
-
-#### Description 
-
-Hi-Plex Primer generates primer pairs for a given set of target regions. See the [user guide](http://bjpop.github.io/hiplex-primer/) for information about using the tool.
+Please [contact](./contact.html) us for information about desigining primers for Hi-Plex.
 
 ****
 
