@@ -51,6 +51,11 @@ Hi-Plex uses relatively inexpensive, readily available reagents and small amount
 <div class="l-box">
 Hi-Plex has been supported by:
 
-   * [NHMRC](https://www.nhmrc.gov.au/) project grant APP1025879 "Massively parallel sequencing and PCR optimised for DNA-based diagnostics and discovery".
-   * [Victorian Life Sciences Computation Initiative (VLSCI)](www.vlsci.org.au) grant number VR0182 on its Peak Computing Facility at the University of Melbourne, an initiative of the Victorian Government, Australia.
+   * [National Health and Medical Research Council (NHMRC)](https://www.nhmrc.gov.au/) project grant APP1025879 "Massively parallel sequencing and PCR optimised for DNA-based diagnostics and discovery".
+   * [National Health and Medical Research Council (NHMRC)](https://www.nhmrc.gov.au/) project grant APP1125179 "A functional assay to classify genetic variants in Lynch syndrome".
+   * [Victorian Life Sciences Computation Initiative (VLSCI)](http://www.vlsci.org.au) grant number VR0182 on its Peak Computing Facility at the University of Melbourne, an initiative of the Victorian Government, Australia. 
+   * [Cancer Council Victoria (CCV)](http://www.cancervic.org.au/) project grant APP1066612.
+   * [Victorian Life Sciences Computation Initiative (VLSCI)](http://www.vlsci.org.au) funding support for UROP studentships and research internships. 
+   * [Department of Pathology, The University of Melbourne](http://biomedicalsciences.unimelb.edu.au/departments/pathology) funding support for UROP studentships. 
+   * [Biomedical Research Victoria Undergraduate Research Opportunities Program (UROP)](http://biomedvic.org.au/urop/).
 </div>
