@@ -5,6 +5,8 @@ news: True
 
 ### 2016
 
+* (July 2016) Edmund Lau wins "Best Computational Presentation" at the 2016 UROP Conference Day, for his talk "Optimus Prime: Transforming Highly Multiplex PCR Primer Design". The prize was sponsored by CSL.
+
 * (April 2016) Paper published by BMC Bioinformatics [UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing](http://www.biomedcentral.com/1471-2105/17/165) 
 
 ### 2015
