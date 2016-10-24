@@ -5,6 +5,8 @@ news: True
 
 ### 2016
 
+* (October 2016) Edmund Lau presents poster entitled ["OptimusPrime: Multiplex Primer Design Tool for Hi-Plex Sequencing"](docs/hiplex_AGTA_poster_2016.pdf) at the [AGTA (Australasian Genomic Technologies Association) 2016 Conference](http://www.agtaconference.org/) in Auckland, New Zealand.
+
 * (July 2016) Edmund Lau wins "Best Computational Presentation" at the 2016 UROP Conference Day, for his talk "Optimus Prime: Transforming Highly Multiplex PCR Primer Design". The prize was sponsored by CSL.
 
 * (April 2016) Paper published by BMC Bioinformatics [UNDR ROVER - a fast and accurate variant caller for targeted DNA sequencing](http://www.biomedcentral.com/1471-2105/17/165) 
