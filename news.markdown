@@ -3,6 +3,23 @@ title: News
 news: True
 ---
 
+### 2017
+
+* (October 2017) Dr Dan Buchanan to give an oral presentation on “The role of RNF43 NTHL1, POLE and POLD1 in Serrated Polyposis” during the Presidential Plenary Abstract Session I. This work featured Hi-Plex screening of 800 specimens - CGA Annual Meeting, Orlando, FL.
+
+* (August 2017) Honours student Tom Green gives a platform presentation on the excellent performance of a Hi-Plex-based panel targeting BRCA1, BRCA2, PALB2 and TP53 for high-throughput screening - Familial Aspects of Cancer meeting, Kingscliff, Australia.
+
+* (August 2017) PhD student Marie Lorans presents evidence supporting new serrated polyposis susceptibility genes – Familial Aspects of Cancer meeting, Kingscliff, Australia.
+
+* (August 2017) Dr Bernie Pope presents evidence supporting CRC susceptibility genes – Familial Aspects of Cancer meeting, Kingscliff, Australia.
+
+* (July 2017) Dr Dan Buchanan presents recent study of germline predisposition to Serrated Polyposis Syndrome including evidence for RNF43 as a susceptibility gene, at the InSIGHT biennial meeting in Florence, Italy.
+
+* Chemistry improvements open Hi-Plex to larger gene-panel designs - demonstrated for each of three test panels: 20-genes, 30-genes and 50-genes.
+
+* The BRA-STRAP project has applied a 24-genes Hi-Plex design to approximately 2000 specimens (https://www.southeylab.org/bra-strap-project) towards assigning risk and penetrance estimates for known or suspected breast cancer predisposition genes.
+
+
 ### 2016
 
 * (October 2016) Edmund Lau presents poster entitled ["OptimusPrime: Multiplex Primer Design Tool for Hi-Plex Sequencing"](docs/hiplex_AGTA_poster_2016.pdf) at the [AGTA (Australasian Genomic Technologies Association) 2016 Conference](http://www.agtaconference.org/) in Auckland, New Zealand.
